@@ -1,0 +1,16 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Sample usage of async-await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerick Gonito",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "route": "^0.2.5",
+    "routes": "^2.1.0"
+  }
+}
